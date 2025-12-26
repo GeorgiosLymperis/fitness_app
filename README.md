@@ -47,7 +47,6 @@ Two inference backends are supported:
   - RAG over standards and rules,
   - Natural language explanations.
 - Modular architecture separating UI, core logic, persistence, and AI.
-- Synthetic data generator for testing.
 
 ---
 
@@ -55,17 +54,6 @@ Two inference backends are supported:
 
 Python, Streamlit, SQLite, SQLAlchemy, Pandas, NumPy, Plotly,  
 HuggingFace Transformers, SentenceTransformers, FAISS, SmolAgents.
-
----
-
-## What This Project Shows
-
-- Applied LLM systems with tool calling and RAG.
-- End-to-end data pipeline from ingestion to analytics to AI reasoning.
-- Clean, production-style Python architecture.
-- Full-stack ML/AI engineering beyond notebooks.
-
-This is built as a **portfolio-grade applied AI project**.
 
 ---
 

@@ -1,0 +1,400 @@
+,BW,Beg.,Nov.,Int.,Adv.,Elite,Area,Exercise
+0,49.89512,< 1,9,41,84,135,legs,lunge
+1,54.431039999999996,< 1,10,41,82,130,legs,lunge
+2,58.96696,< 1,10,41,80,125,legs,lunge
+3,63.50288,< 1,11,40,77,120,legs,lunge
+4,68.0388,< 1,11,39,75,116,legs,lunge
+5,72.57472,< 1,11,38,73,112,legs,lunge
+6,77.11064,< 1,11,38,71,108,legs,lunge
+7,81.64656,< 1,11,37,69,105,legs,lunge
+8,86.18248,< 1,11,36,67,102,legs,lunge
+9,90.7184,< 1,11,35,65,99,legs,lunge
+10,95.25431999999999,< 1,11,35,63,96,legs,lunge
+11,99.79024,< 1,11,34,62,93,legs,lunge
+12,104.32616,< 1,11,33,60,90,legs,lunge
+13,108.86207999999999,< 1,11,32,58,88,legs,lunge
+14,113.398,< 1,10,31,57,86,legs,lunge
+15,117.93392,< 1,10,31,56,83,legs,lunge
+16,122.46984,< 1,10,30,54,81,legs,lunge
+17,127.00576,< 1,10,29,53,79,legs,lunge
+18,131.54167999999999,< 1,10,29,52,77,legs,lunge
+19,136.0776,< 1,9,28,50,75,legs,lunge
+20,140.61352,< 1,9,27,49,74,legs,lunge
+0,49.89512,< 1,9,38,76,120,legs,reverse_lunge
+1,54.431039999999996,< 1,9,37,74,115,legs,reverse_lunge
+2,58.96696,< 1,10,37,71,111,legs,reverse_lunge
+3,63.50288,< 1,10,36,69,107,legs,reverse_lunge
+4,68.0388,< 1,10,36,67,103,legs,reverse_lunge
+5,72.57472,< 1,11,35,65,100,legs,reverse_lunge
+6,77.11064,< 1,11,34,64,97,legs,reverse_lunge
+7,81.64656,< 1,11,34,62,93,legs,reverse_lunge
+8,86.18248,< 1,11,33,60,91,legs,reverse_lunge
+9,90.7184,< 1,10,32,58,88,legs,reverse_lunge
+10,95.25431999999999,< 1,10,31,57,85,legs,reverse_lunge
+11,99.79024,< 1,10,31,55,83,legs,reverse_lunge
+12,104.32616,< 1,10,30,54,80,legs,reverse_lunge
+13,108.86207999999999,< 1,10,29,52,78,legs,reverse_lunge
+14,113.398,< 1,10,28,51,76,legs,reverse_lunge
+15,117.93392,< 1,10,28,50,74,legs,reverse_lunge
+16,122.46984,< 1,9,27,49,72,legs,reverse_lunge
+17,127.00576,< 1,9,26,47,70,legs,reverse_lunge
+18,131.54167999999999,< 1,9,26,46,69,legs,reverse_lunge
+19,136.0776,< 1,9,25,45,67,legs,reverse_lunge
+20,140.61352,< 1,9,24,44,65,legs,reverse_lunge
+0,49.89512,< 1,12,41,79,121,legs,side_lunge
+1,54.431039999999996,< 1,13,41,77,117,legs,side_lunge
+2,58.96696,< 1,14,41,75,113,legs,side_lunge
+3,63.50288,< 1,15,41,73,110,legs,side_lunge
+4,68.0388,< 1,15,40,71,106,legs,side_lunge
+5,72.57472,< 1,15,40,70,103,legs,side_lunge
+6,77.11064,< 1,15,39,68,100,legs,side_lunge
+7,81.64656,< 1,15,38,66,97,legs,side_lunge
+8,86.18248,< 1,15,38,64,94,legs,side_lunge
+9,90.7184,< 1,15,37,63,92,legs,side_lunge
+10,95.25431999999999,< 1,15,36,61,89,legs,side_lunge
+11,99.79024,< 1,15,35,60,87,legs,side_lunge
+12,104.32616,< 1,15,35,58,85,legs,side_lunge
+13,108.86207999999999,< 1,14,34,57,82,legs,side_lunge
+14,113.398,< 1,14,33,56,80,legs,side_lunge
+15,117.93392,< 1,14,33,54,78,legs,side_lunge
+16,122.46984,< 1,14,32,53,77,legs,side_lunge
+17,127.00576,< 1,13,31,52,75,legs,side_lunge
+18,131.54167999999999,< 1,13,31,51,73,legs,side_lunge
+19,136.0776,< 1,13,30,50,71,legs,side_lunge
+20,140.61352,< 1,13,29,49,70,legs,side_lunge
+0,49.89512,< 1,12,62,131,215,legs,bodyweight_squat
+1,54.431039999999996,< 1,13,61,127,206,legs,bodyweight_squat
+2,58.96696,< 1,15,61,123,198,legs,bodyweight_squat
+3,63.50288,< 1,15,60,120,191,legs,bodyweight_squat
+4,68.0388,< 1,16,59,116,184,legs,bodyweight_squat
+5,72.57472,< 1,16,58,113,178,legs,bodyweight_squat
+6,77.11064,< 1,17,57,110,172,legs,bodyweight_squat
+7,81.64656,< 1,17,56,107,167,legs,bodyweight_squat
+8,86.18248,< 1,17,55,104,162,legs,bodyweight_squat
+9,90.7184,< 1,17,54,101,157,legs,bodyweight_squat
+10,95.25431999999999,< 1,17,53,99,152,legs,bodyweight_squat
+11,99.79024,< 1,17,52,96,148,legs,bodyweight_squat
+12,104.32616,< 1,17,51,94,144,legs,bodyweight_squat
+13,108.86207999999999,< 1,17,50,92,140,legs,bodyweight_squat
+14,113.398,< 1,17,49,90,137,legs,bodyweight_squat
+15,117.93392,< 1,16,48,88,133,legs,bodyweight_squat
+16,122.46984,< 1,16,47,86,130,legs,bodyweight_squat
+17,127.00576,< 1,16,46,84,127,legs,bodyweight_squat
+18,131.54167999999999,< 1,16,45,82,124,legs,bodyweight_squat
+19,136.0776,< 1,16,44,80,121,legs,bodyweight_squat
+20,140.61352,< 1,15,44,79,119,legs,bodyweight_squat
+0,49.89512,< 1,< 1,13,29,46,legs,pistol_squat
+1,54.431039999999996,< 1,1,13,28,45,legs,pistol_squat
+2,58.96696,< 1,2,13,28,44,legs,pistol_squat
+3,63.50288,< 1,3,13,27,43,legs,pistol_squat
+4,68.0388,< 1,3,13,27,41,legs,pistol_squat
+5,72.57472,< 1,3,13,26,40,legs,pistol_squat
+6,77.11064,< 1,3,13,26,39,legs,pistol_squat
+7,81.64656,< 1,3,13,25,38,legs,pistol_squat
+8,86.18248,< 1,3,12,24,37,legs,pistol_squat
+9,90.7184,< 1,3,12,24,36,legs,pistol_squat
+10,95.25431999999999,< 1,3,12,23,35,legs,pistol_squat
+11,99.79024,< 1,3,12,22,34,legs,pistol_squat
+12,104.32616,< 1,3,11,22,33,legs,pistol_squat
+13,108.86207999999999,< 1,3,11,21,32,legs,pistol_squat
+14,113.398,< 1,3,10,20,31,legs,pistol_squat
+15,117.93392,< 1,3,10,20,30,legs,pistol_squat
+16,122.46984,< 1,2,10,19,29,legs,pistol_squat
+17,127.00576,< 1,2,10,19,28,legs,pistol_squat
+18,131.54167999999999,< 1,2,9,18,28,legs,pistol_squat
+19,136.0776,< 1,2,9,18,27,legs,pistol_squat
+20,140.61352,< 1,2,9,17,26,legs,pistol_squat
+0,49.89512,< 1,< 1,10,29,52,legs,single_leg_squat
+1,54.431039999999996,< 1,< 1,11,30,52,legs,single_leg_squat
+2,58.96696,< 1,< 1,12,31,52,legs,single_leg_squat
+3,63.50288,< 1,< 1,13,31,51,legs,single_leg_squat
+4,68.0388,< 1,< 1,13,31,50,legs,single_leg_squat
+5,72.57472,< 1,< 1,14,31,50,legs,single_leg_squat
+6,77.11064,< 1,1,14,31,49,legs,single_leg_squat
+7,81.64656,< 1,2,14,30,48,legs,single_leg_squat
+8,86.18248,< 1,2,14,30,47,legs,single_leg_squat
+9,90.7184,< 1,3,14,30,46,legs,single_leg_squat
+10,95.25431999999999,< 1,3,14,29,45,legs,single_leg_squat
+11,99.79024,< 1,3,14,29,45,legs,single_leg_squat
+12,104.32616,< 1,3,14,28,44,legs,single_leg_squat
+13,108.86207999999999,< 1,3,14,28,43,legs,single_leg_squat
+14,113.398,< 1,4,14,27,42,legs,single_leg_squat
+15,117.93392,< 1,4,14,27,41,legs,single_leg_squat
+16,122.46984,< 1,4,14,27,40,legs,single_leg_squat
+17,127.00576,< 1,4,13,26,40,legs,single_leg_squat
+18,131.54167999999999,< 1,4,13,26,39,legs,single_leg_squat
+19,136.0776,< 1,4,13,25,38,legs,single_leg_squat
+20,140.61352,< 1,4,13,25,37,legs,single_leg_squat
+0,49.89512,< 1,1,35,82,139,legs,glute_bridge
+1,54.431039999999996,< 1,4,36,81,135,legs,glute_bridge
+2,58.96696,< 1,5,37,80,132,legs,glute_bridge
+3,63.50288,< 1,6,37,79,128,legs,glute_bridge
+4,68.0388,< 1,7,37,78,125,legs,glute_bridge
+5,72.57472,< 1,8,37,76,122,legs,glute_bridge
+6,77.11064,< 1,9,37,75,119,legs,glute_bridge
+7,81.64656,< 1,9,37,73,116,legs,glute_bridge
+8,86.18248,< 1,9,37,72,113,legs,glute_bridge
+9,90.7184,< 1,10,37,71,110,legs,glute_bridge
+10,95.25431999999999,< 1,10,36,69,107,legs,glute_bridge
+11,99.79024,< 1,10,36,68,105,legs,glute_bridge
+12,104.32616,< 1,10,35,67,103,legs,glute_bridge
+13,108.86207999999999,< 1,10,35,66,100,legs,glute_bridge
+14,113.398,< 1,10,34,64,98,legs,glute_bridge
+15,117.93392,< 1,10,34,63,96,legs,glute_bridge
+16,122.46984,< 1,10,34,62,94,legs,glute_bridge
+17,127.00576,< 1,10,33,61,92,legs,glute_bridge
+18,131.54167999999999,< 1,10,33,60,90,legs,glute_bridge
+19,136.0776,< 1,10,32,59,88,legs,glute_bridge
+20,140.61352,< 1,10,32,58,87,legs,glute_bridge
+0,49.89512,< 1,5,15,27,40,back,pull_ups
+1,54.431039999999996,< 1,6,15,26,39,back,pull_ups
+2,58.96696,< 1,6,15,26,38,back,pull_ups
+3,63.50288,< 1,6,15,25,37,back,pull_ups
+4,68.0388,< 1,6,14,25,36,back,pull_ups
+5,72.57472,< 1,6,14,24,34,back,pull_ups
+6,77.11064,< 1,6,14,23,33,back,pull_ups
+7,81.64656,< 1,6,13,23,32,back,pull_ups
+8,86.18248,< 1,6,13,22,31,back,pull_ups
+9,90.7184,< 1,6,13,21,30,back,pull_ups
+10,95.25431999999999,< 1,6,12,21,29,back,pull_ups
+11,99.79024,< 1,6,12,20,28,back,pull_ups
+12,104.32616,< 1,5,11,19,27,back,pull_ups
+13,108.86207999999999,< 1,5,11,19,27,back,pull_ups
+14,113.398,< 1,5,10,18,26,back,pull_ups
+15,117.93392,< 1,5,10,17,25,back,pull_ups
+16,122.46984,< 1,4,10,17,24,back,pull_ups
+17,127.00576,< 1,4,10,16,23,back,pull_ups
+18,131.54167999999999,< 1,4,9,16,23,back,pull_ups
+19,136.0776,< 1,3,9,15,22,back,pull_ups
+20,140.61352,< 1,3,9,15,21,back,pull_ups
+0,49.89512,< 1,6,15,26,37,back,chin_ups
+1,54.431039999999996,< 1,7,15,25,36,back,chin_ups
+2,58.96696,< 1,7,15,25,35,back,chin_ups
+3,63.50288,< 1,7,15,24,34,back,chin_ups
+4,68.0388,< 1,7,15,24,33,back,chin_ups
+5,72.57472,< 1,7,14,23,32,back,chin_ups
+6,77.11064,< 1,7,14,22,31,back,chin_ups
+7,81.64656,< 1,7,13,22,30,back,chin_ups
+8,86.18248,< 1,7,13,21,29,back,chin_ups
+9,90.7184,< 1,7,13,20,28,back,chin_ups
+10,95.25431999999999,< 1,6,12,20,27,back,chin_ups
+11,99.79024,< 1,6,12,19,26,back,chin_ups
+12,104.32616,< 1,6,11,18,26,back,chin_ups
+13,108.86207999999999,< 1,6,11,18,25,back,chin_ups
+14,113.398,< 1,5,10,17,24,back,chin_ups
+15,117.93392,< 1,5,10,16,23,back,chin_ups
+16,122.46984,< 1,5,10,16,22,back,chin_ups
+17,127.00576,< 1,5,9,15,22,back,chin_ups
+18,131.54167999999999,< 1,4,9,15,21,back,chin_ups
+19,136.0776,< 1,4,9,14,20,back,chin_ups
+20,140.61352,< 1,4,9,14,20,back,chin_ups
+0,49.89512,< 1,16,42,73,109,chest,push_ups
+1,54.431039999999996,< 1,17,42,72,106,chest,push_ups
+2,58.96696,1,18,42,71,103,chest,push_ups
+3,63.50288,2,19,42,69,100,chest,push_ups
+4,68.0388,3,19,41,68,97,chest,push_ups
+5,72.57472,4,19,41,67,95,chest,push_ups
+6,77.11064,4,19,40,65,92,chest,push_ups
+7,81.64656,5,20,40,64,90,chest,push_ups
+8,86.18248,5,20,39,62,87,chest,push_ups
+9,90.7184,5,19,39,61,85,chest,push_ups
+10,95.25431999999999,6,19,38,60,83,chest,push_ups
+11,99.79024,6,19,37,58,81,chest,push_ups
+12,104.32616,6,19,37,57,79,chest,push_ups
+13,108.86207999999999,6,19,36,56,77,chest,push_ups
+14,113.398,6,18,35,55,75,chest,push_ups
+15,117.93392,6,18,35,53,74,chest,push_ups
+16,122.46984,6,18,34,52,72,chest,push_ups
+17,127.00576,6,18,33,51,71,chest,push_ups
+18,131.54167999999999,6,17,33,50,69,chest,push_ups
+19,136.0776,6,17,32,49,68,chest,push_ups
+20,140.61352,6,17,31,48,66,chest,push_ups
+0,49.89512,< 1,< 1,8,25,47,chest,one_arm_push_ups
+1,54.431039999999996,< 1,< 1,9,26,46,chest,one_arm_push_ups
+2,58.96696,< 1,< 1,9,26,46,chest,one_arm_push_ups
+3,63.50288,< 1,< 1,10,27,46,chest,one_arm_push_ups
+4,68.0388,< 1,< 1,10,27,45,chest,one_arm_push_ups
+5,72.57472,< 1,< 1,11,27,44,chest,one_arm_push_ups
+6,77.11064,< 1,< 1,11,27,44,chest,one_arm_push_ups
+7,81.64656,< 1,< 1,11,26,43,chest,one_arm_push_ups
+8,86.18248,< 1,< 1,11,26,42,chest,one_arm_push_ups
+9,90.7184,< 1,< 1,12,26,41,chest,one_arm_push_ups
+10,95.25431999999999,< 1,< 1,12,25,41,chest,one_arm_push_ups
+11,99.79024,< 1,1,12,25,40,chest,one_arm_push_ups
+12,104.32616,< 1,1,11,25,39,chest,one_arm_push_ups
+13,108.86207999999999,< 1,1,11,24,38,chest,one_arm_push_ups
+14,113.398,< 1,1,11,24,37,chest,one_arm_push_ups
+15,117.93392,< 1,1,11,23,37,chest,one_arm_push_ups
+16,122.46984,< 1,1,11,23,36,chest,one_arm_push_ups
+17,127.00576,< 1,1,11,23,35,chest,one_arm_push_ups
+18,131.54167999999999,< 1,1,11,22,34,chest,one_arm_push_ups
+19,136.0776,< 1,1,10,22,34,chest,one_arm_push_ups
+20,140.61352,< 1,1,10,21,33,chest,one_arm_push_ups
+0,49.89512,< 1,6,21,41,63,chest,diamond_push_ups
+1,54.431039999999996,< 1,7,22,41,62,chest,diamond_push_ups
+2,58.96696,< 1,8,23,41,61,chest,diamond_push_ups
+3,63.50288,< 1,9,23,41,61,chest,diamond_push_ups
+4,68.0388,< 1,9,24,41,60,chest,diamond_push_ups
+5,72.57472,< 1,10,24,40,58,chest,diamond_push_ups
+6,77.11064,< 1,10,24,40,57,chest,diamond_push_ups
+7,81.64656,< 1,10,24,39,56,chest,diamond_push_ups
+8,86.18248,< 1,10,24,39,55,chest,diamond_push_ups
+9,90.7184,1,11,24,38,54,chest,diamond_push_ups
+10,95.25431999999999,1,11,23,38,53,chest,diamond_push_ups
+11,99.79024,2,11,23,37,52,chest,diamond_push_ups
+12,104.32616,2,11,23,36,51,chest,diamond_push_ups
+13,108.86207999999999,2,11,22,36,50,chest,diamond_push_ups
+14,113.398,2,11,22,35,49,chest,diamond_push_ups
+15,117.93392,2,11,22,34,48,chest,diamond_push_ups
+16,122.46984,2,10,21,34,47,chest,diamond_push_ups
+17,127.00576,2,10,21,33,46,chest,diamond_push_ups
+18,131.54167999999999,2,10,21,33,45,chest,diamond_push_ups
+19,136.0776,2,10,20,32,44,chest,diamond_push_ups
+20,140.61352,2,10,20,31,43,chest,diamond_push_ups
+0,49.89512,< 1,8,27,51,78,chest,decline_push_up
+1,54.431039999999996,< 1,9,27,51,77,chest,decline_push_up
+2,58.96696,< 1,9,28,50,75,chest,decline_push_up
+3,63.50288,< 1,10,28,49,73,chest,decline_push_up
+4,68.0388,< 1,10,28,49,71,chest,decline_push_up
+5,72.57472,< 1,11,28,48,70,chest,decline_push_up
+6,77.11064,< 1,11,27,47,68,chest,decline_push_up
+7,81.64656,< 1,11,27,46,66,chest,decline_push_up
+8,86.18248,< 1,11,27,45,64,chest,decline_push_up
+9,90.7184,< 1,11,26,44,63,chest,decline_push_up
+10,95.25431999999999,< 1,11,26,43,61,chest,decline_push_up
+11,99.79024,< 1,11,26,42,60,chest,decline_push_up
+12,104.32616,< 1,11,25,41,58,chest,decline_push_up
+13,108.86207999999999,1,11,25,40,57,chest,decline_push_up
+14,113.398,1,11,24,39,56,chest,decline_push_up
+15,117.93392,1,11,24,39,54,chest,decline_push_up
+16,122.46984,1,10,23,38,53,chest,decline_push_up
+17,127.00576,1,10,23,37,52,chest,decline_push_up
+18,131.54167999999999,1,10,22,36,51,chest,decline_push_up
+19,136.0776,1,10,22,35,50,chest,decline_push_up
+20,140.61352,1,10,21,35,49,chest,decline_push_up
+0,49.89512,< 1,8,31,60,93,chest,close_grip_push_up
+1,54.431039999999996,< 1,9,31,59,90,chest,close_grip_push_up
+2,58.96696,< 1,10,32,58,88,chest,close_grip_push_up
+3,63.50288,< 1,11,32,57,86,chest,close_grip_push_up
+4,68.0388,< 1,11,31,56,83,chest,close_grip_push_up
+5,72.57472,< 1,11,31,55,81,chest,close_grip_push_up
+6,77.11064,< 1,12,31,54,79,chest,close_grip_push_up
+7,81.64656,< 1,12,31,53,77,chest,close_grip_push_up
+8,86.18248,< 1,12,30,51,75,chest,close_grip_push_up
+9,90.7184,< 1,12,30,50,73,chest,close_grip_push_up
+10,95.25431999999999,< 1,12,29,49,71,chest,close_grip_push_up
+11,99.79024,< 1,12,29,48,69,chest,close_grip_push_up
+12,104.32616,< 1,12,28,47,68,chest,close_grip_push_up
+13,108.86207999999999,< 1,12,28,46,66,chest,close_grip_push_up
+14,113.398,< 1,11,27,45,64,chest,close_grip_push_up
+15,117.93392,< 1,11,26,44,63,chest,close_grip_push_up
+16,122.46984,< 1,11,26,43,62,chest,close_grip_push_up
+17,127.00576,< 1,11,25,42,60,chest,close_grip_push_up
+18,131.54167999999999,< 1,11,25,41,59,chest,close_grip_push_up
+19,136.0776,< 1,10,24,40,57,chest,close_grip_push_up
+20,140.61352,< 1,10,24,39,56,chest,close_grip_push_up
+0,49.89512,< 1,7,31,62,98,triceps,bench_dips
+1,54.431039999999996,< 1,8,31,62,96,triceps,bench_dips
+2,58.96696,< 1,9,32,61,94,triceps,bench_dips
+3,63.50288,< 1,10,32,60,92,triceps,bench_dips
+4,68.0388,< 1,10,32,59,89,triceps,bench_dips
+5,72.57472,< 1,11,32,58,87,triceps,bench_dips
+6,77.11064,< 1,11,32,57,85,triceps,bench_dips
+7,81.64656,< 1,12,32,56,83,triceps,bench_dips
+8,86.18248,< 1,12,32,55,81,triceps,bench_dips
+9,90.7184,< 1,12,31,54,79,triceps,bench_dips
+10,95.25431999999999,< 1,12,31,53,77,triceps,bench_dips
+11,99.79024,< 1,12,30,52,75,triceps,bench_dips
+12,104.32616,< 1,12,30,51,74,triceps,bench_dips
+13,108.86207999999999,< 1,12,29,50,72,triceps,bench_dips
+14,113.398,< 1,12,29,49,71,triceps,bench_dips
+15,117.93392,< 1,12,28,48,69,triceps,bench_dips
+16,122.46984,< 1,12,28,47,67,triceps,bench_dips
+17,127.00576,< 1,12,28,46,66,triceps,bench_dips
+18,131.54167999999999,< 1,11,27,45,65,triceps,bench_dips
+19,136.0776,< 1,11,27,44,63,triceps,bench_dips
+20,140.61352,< 1,11,26,43,62,triceps,bench_dips
+0,49.89512,< 1,15,57,111,176,core,crunches
+1,54.431039999999996,< 1,17,57,109,170,core,crunches
+2,58.96696,< 1,18,57,107,165,core,crunches
+3,63.50288,< 1,19,57,104,160,core,crunches
+4,68.0388,< 1,20,56,102,155,core,crunches
+5,72.57472,< 1,21,56,100,150,core,crunches
+6,77.11064,< 1,21,55,97,146,core,crunches
+7,81.64656,< 1,21,54,95,142,core,crunches
+8,86.18248,< 1,22,53,93,138,core,crunches
+9,90.7184,< 1,22,53,91,135,core,crunches
+10,95.25431999999999,< 1,22,52,89,131,core,crunches
+11,99.79024,1,22,51,87,128,core,crunches
+12,104.32616,1,22,50,85,125,core,crunches
+13,108.86207999999999,1,21,49,84,122,core,crunches
+14,113.398,2,21,49,82,119,core,crunches
+15,117.93392,2,21,48,80,116,core,crunches
+16,122.46984,2,21,47,78,114,core,crunches
+17,127.00576,2,21,46,77,111,core,crunches
+18,131.54167999999999,2,20,45,75,109,core,crunches
+19,136.0776,2,20,45,74,107,core,crunches
+20,140.61352,3,20,44,73,104,core,crunches
+0,49.89512,< 1,25,70,128,196,core,sit_ups
+1,54.431039999999996,< 1,25,68,123,187,core,sit_ups
+2,58.96696,< 1,25,66,118,178,core,sit_ups
+3,63.50288,< 1,25,64,113,171,core,sit_ups
+4,68.0388,< 1,25,62,109,164,core,sit_ups
+5,72.57472,< 1,24,60,106,157,core,sit_ups
+6,77.11064,< 1,24,59,102,152,core,sit_ups
+7,81.64656,< 1,23,57,99,146,core,sit_ups
+8,86.18248,< 1,23,55,95,141,core,sit_ups
+9,90.7184,< 1,22,54,93,136,core,sit_ups
+10,95.25431999999999,< 1,22,52,90,132,core,sit_ups
+11,99.79024,< 1,21,51,87,128,core,sit_ups
+12,104.32616,< 1,21,50,85,124,core,sit_ups
+13,108.86207999999999,< 1,20,48,82,120,core,sit_ups
+14,113.398,< 1,20,47,80,117,core,sit_ups
+15,117.93392,< 1,19,46,78,114,core,sit_ups
+16,122.46984,< 1,19,45,76,111,core,sit_ups
+17,127.00576,< 1,18,44,74,108,core,sit_ups
+18,131.54167999999999,< 1,18,42,72,105,core,sit_ups
+19,136.0776,< 1,17,41,70,102,core,sit_ups
+20,140.61352,< 1,17,40,69,100,core,sit_ups
+0,49.89512,< 1,22,60,109,165,core,russian_twist
+1,54.431039999999996,< 1,20,56,102,155,core,russian_twist
+2,58.96696,< 1,19,53,97,146,core,russian_twist
+3,63.50288,< 1,18,51,91,138,core,russian_twist
+4,68.0388,< 1,17,48,87,131,core,russian_twist
+5,72.57472,< 1,16,46,82,124,core,russian_twist
+6,77.11064,< 1,15,43,78,118,core,russian_twist
+7,81.64656,< 1,14,41,75,113,core,russian_twist
+8,86.18248,< 1,13,39,71,108,core,russian_twist
+9,90.7184,< 1,12,37,68,103,core,russian_twist
+10,95.25431999999999,< 1,12,36,66,99,core,russian_twist
+11,99.79024,< 1,11,34,63,95,core,russian_twist
+12,104.32616,< 1,10,33,60,92,core,russian_twist
+13,108.86207999999999,< 1,10,31,58,88,core,russian_twist
+14,113.398,< 1,9,30,56,85,core,russian_twist
+15,117.93392,< 1,9,29,54,82,core,russian_twist
+16,122.46984,< 1,8,28,52,79,core,russian_twist
+17,127.00576,< 1,8,26,50,77,core,russian_twist
+18,131.54167999999999,< 1,7,25,48,74,core,russian_twist
+19,136.0776,< 1,7,24,47,72,core,russian_twist
+20,140.61352,< 1,6,23,45,70,core,russian_twist
+0,49.89512,< 1,2,16,33,52,core,hanging_leg_raise
+1,54.431039999999996,< 1,4,17,33,51,core,hanging_leg_raise
+2,58.96696,< 1,5,17,33,50,core,hanging_leg_raise
+3,63.50288,< 1,6,18,33,50,core,hanging_leg_raise
+4,68.0388,< 1,6,18,33,49,core,hanging_leg_raise
+5,72.57472,< 1,7,18,32,48,core,hanging_leg_raise
+6,77.11064,< 1,7,18,32,47,core,hanging_leg_raise
+7,81.64656,< 1,7,18,31,46,core,hanging_leg_raise
+8,86.18248,< 1,7,18,31,45,core,hanging_leg_raise
+9,90.7184,< 1,7,18,30,44,core,hanging_leg_raise
+10,95.25431999999999,< 1,7,17,30,43,core,hanging_leg_raise
+11,99.79024,< 1,7,17,29,42,core,hanging_leg_raise
+12,104.32616,< 1,7,17,28,41,core,hanging_leg_raise
+13,108.86207999999999,< 1,7,16,28,40,core,hanging_leg_raise
+14,113.398,< 1,7,16,27,39,core,hanging_leg_raise
+15,117.93392,< 1,7,16,27,38,core,hanging_leg_raise
+16,122.46984,< 1,7,16,26,37,core,hanging_leg_raise
+17,127.00576,< 1,7,15,26,36,core,hanging_leg_raise
+18,131.54167999999999,< 1,7,15,25,36,core,hanging_leg_raise
+19,136.0776,< 1,7,15,24,35,core,hanging_leg_raise
+20,140.61352,< 1,7,14,24,34,core,hanging_leg_raise
